@@ -13,15 +13,21 @@
 - [ ] 백준
 
 ## 유형
-- CODEUP
- - basic
- - structure
- - recursion
- - search
- - relation
- - stack
- - greedy
- - DFS/BFS
- - backtracking
- - dynamic
- - tree
+```
+├─junyoung_study
+  │  README.md
+  ├─ CODEUP
+  │      basic
+  │      structure
+  │      recursion
+  │      search
+  │      relation
+  │      stack
+  │      greedy
+  │      DFS/BFS
+  │      backtracking
+  │      dynamic
+  │      tree
+  └─ Programmers
+  └─ Baekjoon
+```

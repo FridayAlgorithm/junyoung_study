@@ -6,21 +6,28 @@
 * 금, 7:00PM : 랜덤 코드 리뷰
 
 ## 진행 상황
-#### *__CodeUp 기초 100제 + CodeUp 문제집__*
+*__CodeUp 기초 100제 + CodeUp 문제집__*
 - [ ] CodeUp 기초 100제
 - [ ] CodeUp 문제집
 - [ ] 프로그래머스
 - [ ] 백준
 
 ## 유형
-* basic
-* structure
-* recursion
-* search
-* relation
-* stack
-* greedy
-* DFS/BFS
-* backtracking
-* dynamic
-* tree
+```
+├─junyoung_study
+  │  README.md
+  ├─ CODEUP
+  │      basic
+  │      structure
+  │      recursion
+  │      search
+  │      relation
+  │      stack
+  │      greedy
+  │      DFS/BFS
+  │      backtracking
+  │      dynamic
+  │      tree
+  └─ Programmers
+  └─ Baekjoon
+```

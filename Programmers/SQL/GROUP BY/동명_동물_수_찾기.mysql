@@ -1,0 +1,8 @@
+/*
+    GROUP BY에서 지정한 열 이회의 열은
+    집계함수를 쓰지 않고 SELECT에서 사용x
+*/
+SELECT NAME, COUNT(NAME) AS CNT
+FROM ANIMAL_INS
+GROUP BY NAME HAVING CNT >= 2
+ORDER BY NAME
